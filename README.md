@@ -1,0 +1,3 @@
+# textextract
+
+pip install pytesseract
